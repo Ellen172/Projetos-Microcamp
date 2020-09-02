@@ -6,5 +6,4 @@
 [📄 Formulário](https://github.com/Ellen172/MC-Formulario) <br/>
 [📰 Jornal](https://github.com/Ellen172/MC-Jornal) <br/>
 [🎶 Playlist](https://github.com/Ellen172/MC-Playlist) <br/>
-
-
+[🥣 Receitas](https://github.com/Ellen172/MC-Receitas) 
