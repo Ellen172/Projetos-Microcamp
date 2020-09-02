@@ -5,4 +5,6 @@
 [🖥️ Informática](https://github.com/Ellen172/MC-Informatica) <br/>
 [📄 Formulário](https://github.com/Ellen172/MC-Formulario) <br/>
 [📰 Jornal](https://github.com/Ellen172/MC-Jornal) <br/>
+[🎶 Playlist](https://github.com/Ellen172/MC-Playlist) <br/>
+
 
