@@ -1,4 +1,9 @@
-# Projetos Microcamp
+<p align="center">
+  <img src="./mc.png">
+</p>
+
+<h1>Projetos</h1>
+
 [📓 Aulas](https://github.com/Ellen172/MC-Aulas) <br/>
 [🍿 Cinema](https://github.com/Ellen172/Cinema) <br/>
 [💻 Empresa de Informatica](https://github.com/Ellen172/MC-Empresa-Informatica) <br/>
@@ -11,3 +16,4 @@
 ## Provas
 [Html 1](https://github.com/Ellen172/MC-Html-Prova1) <br/>
 [Html 2](https://github.com/Ellen172/MC-Html-Prova2) 
+
