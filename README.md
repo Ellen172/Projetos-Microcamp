@@ -11,7 +11,8 @@
 [📄 Formulário](https://github.com/Ellen172/MC-Formulario) <br/>
 [📰 Jornal](https://github.com/Ellen172/MC-Jornal) <br/>
 [🎶 Playlist](https://github.com/Ellen172/MC-Playlist) <br/>
-[🥣 Receitas](https://github.com/Ellen172/MC-Receitas) 
+[🥣 Receitas](https://github.com/Ellen172/MC-Receitas) <br/>
+[✅ Currículo](https://github.com/Ellen172/MC-Curriculo)
 
 ## Provas
 [Html 1](https://github.com/Ellen172/MC-Html-Prova1) <br/>
