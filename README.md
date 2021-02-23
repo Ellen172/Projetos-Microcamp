@@ -12,7 +12,8 @@
 [📰 Jornal](https://github.com/Ellen172/MC-Jornal) <br/>
 [🎶 Playlist](https://github.com/Ellen172/MC-Playlist) <br/>
 [🥣 Receitas](https://github.com/Ellen172/MC-Receitas) <br/>
-[✅ Currículo](https://github.com/Ellen172/MC-Curriculo)
+[✅ Currículo](https://github.com/Ellen172/MC-Curriculo) <br/>
+[🎨 Artigo da Web](https://github.com/Ellen172/MC-ArtigoWeb)
 
 ## Provas
 [Html 1](https://github.com/Ellen172/MC-Html-Prova1) <br/>
