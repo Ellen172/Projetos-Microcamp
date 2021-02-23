@@ -16,6 +16,6 @@
 [🎨 Artigo da Web](https://github.com/Ellen172/MC-ArtigoWeb)
 
 ## Provas
-[Html 1](https://github.com/Ellen172/MC-Html-Prova1) <br/>
-[Html 2](https://github.com/Ellen172/MC-Html-Prova2) 
+[Html - MacroSom](https://github.com/Ellen172/MC-ProvaHtml-MacroSom) <br/>
+[Html - Ellenverso](https://github.com/Ellen172/MC-ProvaHtml-Ellenverso) 
 
