@@ -13,7 +13,8 @@
 [🎶 Playlist](https://github.com/Ellen172/MC-Playlist) <br/>
 [🥣 Receitas](https://github.com/Ellen172/MC-Receitas) <br/>
 [✅ Currículo](https://github.com/Ellen172/MC-Curriculo) <br/>
-[🎨 Artigo da Web](https://github.com/Ellen172/MC-ArtigoWeb)
+[🎨 Artigo da Web](https://github.com/Ellen172/MC-ArtigoWeb)<br/>
+[Portal do Aluno](https://github.com/Ellen172/MC-PortalDoAluno)
 
 ## Provas
 [Html - MacroSom](https://github.com/Ellen172/MC-ProvaHtml-MacroSom) <br/>
