@@ -6,7 +6,7 @@
 
 [📓 Aulas](https://github.com/Ellen172/MC-Aulas) <br/>
 [🍿 Melhores filmes 2020](https://github.com/Ellen172/Melhores-filmes-2020) <br/>
-[💻 Empresa de Informatica](https://github.com/Ellen172/MC-Empresa-Informatica) <br/>
+[💻 Star Tech](https://github.com/Ellen172/Star-Tech) <br/>
 [🖥️ Informática](https://github.com/Ellen172/MC-Informatica) <br/>
 [📄 Formulário](https://github.com/Ellen172/MC-Formulario) <br/>
 [📰 Jornal](https://github.com/Ellen172/MC-Jornal) <br/>
