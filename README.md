@@ -8,15 +8,15 @@
 [🍿 Melhores filmes 2020](https://github.com/Ellen172/Melhores-filmes-2020) <br/>
 [💻 Star Tech](https://github.com/Ellen172/Star-Tech) <br/>
 [🖥️ Super Tech](https://github.com/Ellen172/Super-Tech) <br/>
-[📄 Formulário](https://github.com/Ellen172/MC-Formulario) <br/>
-[📰 Jornal](https://github.com/Ellen172/MC-Jornal) <br/>
-[🎶 Playlist](https://github.com/Ellen172/MC-Playlist) <br/>
-[🥣 Receitas](https://github.com/Ellen172/MC-Receitas) <br/>
-[✅ Currículo](https://github.com/Ellen172/MC-Curriculo) <br/>
-[🎨 Artigo da Web](https://github.com/Ellen172/MC-ArtigoWeb)<br/>
-[Portal do Aluno](https://github.com/Ellen172/MC-PortalDoAluno)
+[📄 Formulário MC](https://github.com/Ellen172/Formulario-MC) <br/>
+[📰 Jornal Atual](https://github.com/Ellen172/Jornal-Atual) <br/>
+[🎶 Playlist Total](https://github.com/Ellen172/Playlist-Total) <br/>
+[🥣 Livro de Receitas](https://github.com/Ellen172/Livro-receitas) <br/>
+[✅ Meu Currículo](https://github.com/Ellen172/Meu-Curriculo) <br/>
+[🎨 Artigo - Blog](https://github.com/Ellen172/Artigo-Blog)<br/>
+[Portal do Aluno](https://github.com/Ellen172/PortalDoAluno)
 
-## Provas
-[Html - MacroSom](https://github.com/Ellen172/MC-ProvaHtml-MacroSom) <br/>
-[Html - Ellenverso](https://github.com/Ellen172/MC-ProvaHtml-Ellenverso) 
+## Prova html
+[MacroSom](https://github.com/Ellen172/MacroSom) <br/>
+[Ellenverso](https://github.com/Ellen172/Ellenverso) 
 
