@@ -4,7 +4,6 @@
 [Star Tech](https://github.com/Ellen172/Star-Tech) <br/>
 [Super Tech](https://github.com/Ellen172/Super-Tech) <br/>
 [Formulário MC](https://github.com/Ellen172/Formulario-MC) <br/>
-[Jornal Atual](https://github.com/Ellen172/Jornal-Atual) <br/>
 [Playlist Total](https://github.com/Ellen172/Playlist-Total) <br/>
 [Livro de Receitas](https://github.com/Ellen172/Livro-receitas) <br/>
 [Meu Currículo](https://github.com/Ellen172/Meu-Curriculo) <br/>
