@@ -1,7 +1,6 @@
 # Projetos
 [Aulas Html5 Css3](https://github.com/Ellen172/Aula_Html5_Css3) <br/>
 [Melhores filmes 2020](https://github.com/Ellen172/Melhores-filmes-2020) <br/>
-[Star Tech](https://github.com/Ellen172/Star-Tech) <br/>
 [Formulário MC](https://github.com/Ellen172/Formulario-MC) <br/>
 [Playlist Total](https://github.com/Ellen172/Playlist-Total) <br/>
 [Livro de Receitas](https://github.com/Ellen172/Livro-receitas) <br/>
